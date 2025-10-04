@@ -431,3 +431,4 @@ FodyWeavers.xsd
 /.vs/JNJServices.API/CopilotIndices/17.14.260.54502/CodeChunks.db
 /.vs/JNJServices.API/CopilotIndices/17.14.260.54502/SemanticSymbols.db
 /gitignore
+/JNJServices.API/jnj-services-firebase-creds.json
